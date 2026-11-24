@@ -1,0 +1,11 @@
+{
+  "appId": "com.yaaddilao.app",
+  "appName": "Yaad Dilao",
+  "webDir": "www",
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_icon_config_sample",
+      "iconColor": "#1F6F5C"
+    }
+  }
+}
